@@ -1,2 +1,3 @@
-# What FifthXenia is.
-- FifthXenia is a non-profit, that focuses on developing solutions that benefit humanity.
+* What FifthXenia is.
+- FifthXenia is a non-profit, that focuses on developing solutions that benefit humanity. 
+  - We build systems that buttress decentralization over centralization, non-violent cooperation over violent force, transparency over secrecy, encryption and anonymity over big brother, liberty over death.
