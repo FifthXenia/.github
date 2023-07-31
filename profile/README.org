@@ -1,4 +1,4 @@
 * What FifthXenia is.
 - FifthXenia is a non-profit, that focuses on developing solutions that benefit humanity. 
   - We build systems that buttress decentralization over centralization, non-violent cooperation over violent force, transparency over secrecy, truth and honesty over lies and deception, encryption and anonymity over big brother, sound economics, spines over spineless, simplicitly and just enough over heedless extraneous addiction, and liberty over death.
-- A society of autonomous individuals building up, rather than top down stagnated slavery trauma.
+  - A society of autonomous individuals building up, rather than top down stagnated slavery trauma.
