@@ -2,3 +2,19 @@
 - FifthXenia is a non-profit, that focuses on developing solutions that benefit humanity. 
   - We build systems that buttress decentralization over centralization, non-violent cooperation over violent force, transparency over secrecy, truth and honesty over lies and deception, encryption and anonymity over big brother, sound economics, spines over spineless, simplicitly and just enough over heedless extraneous addiction, and liberty over death.
   - (leading from the front, just people, same rules and principles applying to everyone) A society of autonomous individuals lifting those beneath them and building up, rather than  (leading from the back, ruler not same as ruled, lies, special privileges) top down stagnated slavery trauma poison.
+
+
+#+begin_quote
+"An invisible empire has been set up above the forms of democracy.... 
+
+Since I entered politics, I have chiefly had men’s views confided to me privately. Some of the biggest men in the United States, in the field of commerce and manufacture, are afraid of somebody, are afraid of something. They know that there is a power somewhere so organized, so subtle, so watchful, so interlocked, so complete, so pervasive, that they had better not speak above their breath when they speak in condemnation of it
+
+-that middle class is being more and more squeezed out by the processes which we have been taught to call processes of prosperity. Its members are sharing prosperity, no doubt; but what alarms me is that they are not originating prosperity. No country can afford to have its prosperity originated by a small controlling class. 
+
+
+All over the Union people are coming to feel that they have no control over the course of affairs...
+
+Men said: “We vote; we are offered the platform we want; we elect the men who stand on that platform, and we get absolutely nothing.” So they began to ask: “What is the use of voting? We know that the machines of both parties are subsidized by the same persons, and therefore it is useless to turn in either direction.”
+#+end_quote
+- President Woodrow Wilson, [[https://teachingamericanhistory.org/document/the-new-freedom][The New Freedom]], 1913
+  - Pre-[[https://en.wikipedia.org/wiki/Transistor][transistor]] and digital age, radio, tv, pre the decision of the U.S to engage in https://en.wikipedia.org/wiki/Full-spectrum_dominance post dieing down of the cold war, post [[https://en.wikipedia.org/wiki/Aurora,_Texas,_UFO_incident][Aurora]].
