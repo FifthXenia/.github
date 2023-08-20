@@ -13,3 +13,5 @@
   - (Stay out of the elephants way even after you're enlightened.)
 
 ![2023-08-20_12-41-47_screenshot](https://github.com/FifthXenia/.github/assets/7407672/2269d8ba-0321-4490-9d1c-7675ce49be68)
+
+![handprints-500x](https://github.com/FifthXenia/.github/assets/7407672/411a3e5e-d619-4e5a-89b3-eb7c0bb1fd94)
