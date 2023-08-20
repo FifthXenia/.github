@@ -4,7 +4,7 @@
   - We build systems that buttress decentralization over centralization, non-violent cooperation over violent force, transparency over secrecy, truth and honesty over lies and deception, encryption and anonymity over big brother, sound economics over parasocial and asocial leeches and phantom draws, spines over spineless, simplicitly and just enough over heedless extraneous addiction, and liberty over death.
   - (leading from the front, just people, same rules and principles applying to everyone) A society of autonomous individuals lifting those beneath them and building up, rather than  (leading from the back, ruler not same as ruled, lies, special privileges) top down stagnated slavery trauma poison.
 
-* Our [Triratna](https://en.wikipedia.org/wiki/Triratna) of Guiding Principles:
+# Our [Triratna](https://en.wikipedia.org/wiki/Triratna) of Guiding Principles:
 - 1: `Peoples World Order` over the [New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
   - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [sangha](https://en.wikipedia.org/wiki/Sangha).)
 - 2: `Freedom of Action~ over ~Freedom of Speech not Reach`
