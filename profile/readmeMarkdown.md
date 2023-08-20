@@ -11,5 +11,6 @@
   - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering an era of action.)
 - 3: `Social Eugenics` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
   - (Stay out of the elephants way even after you're enlightened.)
+ 
 
-![handprints-500x](https://github.com/FifthXenia/.github/assets/7407672/411a3e5e-d619-4e5a-89b3-eb7c0bb1fd94)
+![handprints-500x-270deg](https://github.com/FifthXenia/.github/assets/7407672/93ffd949-0a34-4911-a302-99b621642f43)
