@@ -8,7 +8,7 @@
 - 1: `Peoples World Order` over the [New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
   - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [sangha](https://en.wikipedia.org/wiki/Sangha).)
 - 2: `Freedom of Action` over `Freedom of Speech not Reach`
-  - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering an era of action.)
+  - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering into an era of action.)
 - 3: `Social Eugenics` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
   - (Stay out of the elephants way even after you're enlightened.)
  
