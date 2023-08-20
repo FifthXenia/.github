@@ -13,3 +13,6 @@
 
 #+ATTR_ORG: :width 600
 [[file:.images/2023-08-20_12-41-47_screenshot.png]]
+
+
+[[file:.images/bitmap.png]]
