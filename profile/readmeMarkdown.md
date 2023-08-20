@@ -1,2 +1,15 @@
-  ![bitmap](https://github.com/FifthXenia/.github/assets/7407672/569ad1d1-5f85-4fe4-ba5f-abf3c17a0098)
+
+# FifthXenia is:
+- FifthXenia is a non-profit, that focuses on developing solutions that benefit humanity. 
+  - We build systems that buttress decentralization over centralization, non-violent cooperation over violent force, transparency over secrecy, truth and honesty over lies and deception, encryption and anonymity over big brother, sound economics over parasocial and asocial leeches and phantom draws, spines over spineless, simplicitly and just enough over heedless extraneous addiction, and liberty over death.
+  - (leading from the front, just people, same rules and principles applying to everyone) A society of autonomous individuals lifting those beneath them and building up, rather than  (leading from the back, ruler not same as ruled, lies, special privileges) top down stagnated slavery trauma poison.
+
+* Our [Triratna](https://en.wikipedia.org/wiki/Triratna) of Guiding Principles:
+- 1: `Peoples World Order` over the [New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
+  - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [[https://en.wikipedia.org/wiki/Sangha][sangha]].)
+- 2: `Freedom of Action~ over ~Freedom of Speech not Reach`
+  - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering an era of action.)
+- 3: `Social Eugenics` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
+  - (Stay out of the elephants way even after you're enlightened.)
+
 ![2023-08-20_12-41-47_screenshot](https://github.com/FifthXenia/.github/assets/7407672/2269d8ba-0321-4490-9d1c-7675ce49be68)
