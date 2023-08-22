@@ -5,7 +5,7 @@
   - (Leading from the front, same rules and principles applying to everyone) A society of autonomous individuals lifting those beneath them up and building vertically and horizontally, rather than  (leading from the back, ruler not same as ruled, lies, special privileges, long deep generational shadows) top down stagnated slavery trauma poison.
 
 ## Our [Triratna](https://en.wikipedia.org/wiki/Triratna) of Guiding Principles:
-- 1: `Peoples World Order` over the [New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
+- 1: `Principled World Order` over the [New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
   - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [sangha](https://en.wikipedia.org/wiki/Sangha).)
 - 2: `Freedom of Action` over `Freedom of Speech not Reach`
   - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering into an era of action.)
