@@ -9,7 +9,7 @@
   - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [practicioners](https://en.wikipedia.org/wiki/Sangha).)
 - 2: `Freedom of Action` over `Freedom of Speech not Reach`
   - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering into an era of action.)
-- 3: `Social Eugenics` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
+- 3: `Social Nurture` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
   - (Stay out of the elephants way even after you're enlightened.)
  
 
