@@ -8,7 +8,7 @@
 - 1: `Method World Order` over the [Principled/New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
   - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [practicioners](https://en.wikipedia.org/wiki/Sangha).)
 - 2: `Freedom of Action and Expression or Non-Expression` over [Freedom of Speech not Reach](https://blog.twitter.com/en_us/topics/product/2023/freedom-of-speech-not-reach-an-update-on-our-enforcement-philosophy)
-  - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering into an era of action and expression or non-expression.)
+  - (The [era](https://en.wikipedia.org/wiki/Era) of speech and reach has passed. We're entering into an era of action and expression or non-expression.)
 - 3: `Social Nurture` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
   - (Stay out of the elephants way even after you're enlightened. Maybe bandage its' leg if injured, but you don't have to.)
  
