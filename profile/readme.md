@@ -10,7 +10,7 @@
 - 2: `Freedom of Action` over `Freedom of Speech not Reach`
   - (The [era](https://en.wikipedia.org/wiki/Era) of speech has passed. We're entering into an era of action.)
 - 3: `Social Nurture` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
-  - (Stay out of the elephants way even after you're enlightened. Maybe bandage its' leg if it's injured, but you don't have to.)
+  - (Stay out of the elephants way even after you're enlightened. Maybe bandage its' leg if injured, but you don't have to.)
  
 
 ![handprints-500x-270deg](https://github.com/FifthXenia/.github/assets/7407672/93ffd949-0a34-4911-a302-99b621642f43)
