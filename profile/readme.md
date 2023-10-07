@@ -7,7 +7,7 @@
 ## Our [Triratna](https://en.wikipedia.org/wiki/Triratna) of Guiding Principles:
 - 1: `Practioner World Order` over the [Principled/New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
   - (Avoid [post turtles](https://en.wikipedia.org/wiki/Post_turtle). Stick to the [practicioners](https://en.wikipedia.org/wiki/Sangha).)
-- 2: `Freedom of Action/Non-Action and Expression/Non-Expression` over [Freedom of Speech not Reach](https://blog.twitter.com/en_us/topics/product/2023/freedom-of-speech-not-reach-an-update-on-our-enforcement-philosophy) and [Hegelian Dialectics](https://amazingdiscoveries.org/R-reformation-deception-hegel-politics) (Controlled and man/woman-derived problems-reactions-solutions)
+- 2: `Freedom of Action/Non-Action and Expression/Non-Expression` over [Freedom of Speech not Reach](https://blog.twitter.com/en_us/topics/product/2023/freedom-of-speech-not-reach-an-update-on-our-enforcement-philosophy) and [Hegelian Dialectics](https://amazingdiscoveries.org/R-reformation-deception-hegel-politics) (Controlled and man/woman-derived false problems-reactions-solutions)
   - (The [era](https://en.wikipedia.org/wiki/Era) of speech and reach (grabby hands) and external authorities as the principal authority has passed. What [phrase](https://en.wikipedia.org/wiki/God_is_dead) did Nietzsche say again? We're entering into an era of action/non-action and expression/non-expression.)
 - 3: `Social Nurture` over `Propaganda, PsyOps, False Flags, Violence, Force, Subversion, Slavery, Trauma, Poison`
   - (Stay out of the elephants way even after you're enlightened. Maybe bandage its' leg if injured, but you don't have to.)
