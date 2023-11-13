@@ -14,3 +14,15 @@
  
 
 ![handprints-500x-270deg](https://github.com/FifthXenia/.github/assets/7407672/93ffd949-0a34-4911-a302-99b621642f43)
+
+
+
+## Legal
+- Also, putting code I write under a separate non-profit entitiy, protects me from legal liabilities, to some extent.
+   - See: https://radian.codes/
+
+```
+However, after a scary experience of being threatened by a former employer, I found out that the US legal system basically makes it so that you can’t stand up to rich people without serious risk to your livelihood and personal savings. After talking to a lawyer, I learned that what you’re supposed to do as a normal open-source developer is to form a limited liability company and conduct your work through that entity, which prevents your personal savings from being subject to lawsuits about your open-source work. (“Corporations are people too!”)
+
+The company I formed is called Radian LLC and is incorporated in California. I keep separate finances, accounts, and records for all work on projects that are associated with the LLC in order to avoid any ambiguity.
+```
