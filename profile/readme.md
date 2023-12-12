@@ -3,6 +3,8 @@
 - FifthXenia is a organization (in the future: registered as an llc or non-profit), that focuses on developing solutions that benefit humanity. 
   - We build systems that buttress decentralization over centralization, non-violent cooperation over violent force, transparency over secrecy, truth and honesty over lies and deception, encryption and anonymity over big brother, sound economics over parasocial and asocial leeches and phantom draws, spines over spineless, simplicitly and just enough over heedless extraneous addiction, and liberty over death.
   - (Leading from the front, same rules and principles applying to everyone) A society of autonomous individuals lifting those beneath them up and building vertically and horizontally, rather than  (leading from the back, ruler not same as ruled, lies, special privileges, long deep generational shadows) top down stagnated slavery trauma poison.
+    - (Diversified pro-human fair honorable and empathic future VS the centralized tower-of-babel anti-human prankster morally-subjective babelers divided and ruled by the aristocratic babelers)
+
 
 ## Our [Triratna](https://en.wikipedia.org/wiki/Triratna) of Guiding Principles:
 - 1: `Practioner World Order` over the [Principled/New World Order](https://blogs.loc.gov/loc/2017/04/world-war-i-a-new-world-order-woodrow-wilsons-first-draft-of-the-league-of-nations-covenant/)
