@@ -18,6 +18,12 @@
 ![handprints-500x-270deg](https://github.com/FifthXenia/.github/assets/7407672/93ffd949-0a34-4911-a302-99b621642f43)
 
 
+## Current Product Focus
+### piletexodus (in development)
+- A React Native mobile app, where you timeblock, it speaks your timeblocks to you, and you upload proof of work for each task.
+- Additional features, like public profiles, sync service. Follows the business-model of Obsidian, with publish and sync plans.
+  - `A structured and vibrant lifestyle supervision system crafted to garner intense alignment between one's daily actions and one's corresponding long-term aspirations. Hardcore results, wholesome positive momentum, minimal stress and overwhelm.`
+
 
 ## Legal
 - Also, putting code I write under a separate llc/non-profit entitiy, protects me from legal liabilities, to some extent.
