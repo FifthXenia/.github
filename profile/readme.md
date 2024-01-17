@@ -17,6 +17,13 @@
 
 ![handprints-500x-270deg](https://github.com/FifthXenia/.github/assets/7407672/93ffd949-0a34-4911-a302-99b621642f43)
 
+## Current Help Focus
+### Help 1: piletexodus (in development)
+- A React Native mobile/desktop/web app, where you timeblock, it speaks your timeblocks to you, and you upload proof of work for each task. Empowers people to plan, make progress, and continue progress, yet stays simple and generally out of the way. Yet encourages you with voice reminders, so you stay to the plan. And some reflection at the end of days, etc. Proof of work to link integrity, boost self-esteem, and propogating a positive social inertia for society.
+- Additional features, like public profiles, sync service. Follows the business-model of Obsidian, with publish and sync plans.
+  - Have daily reports/analysis/reflection. Take Google's "Promotional Packet", and maybe make it a daily "Existence Packet", or weekly. And have your goals listed, and check off if you are alligned, and your actions back up.
+  - `A structured and vibrant lifestyle supervision system crafted to garner intense alignment between one's daily actions and one's corresponding long-term aspirations. Hardcore results, wholesome positive momentum, minimal stress and overwhelm.`
+  - Maybe make GPLv3 and opensource, sync and publish billable atco.st, and have FifthXenia a non-profit.
 
 
 ## Legal
