@@ -1,6 +1,6 @@
 
 ## FifthXenia is:
-- FifthXenia is a creative collective focusing on developing modular and distributed solutions that benefit humanity and that deepen our relationship with the world.
+- FifthXenia is a creative collective developing modular and distributed solutions that benefit humanity, and deepen our relationship with the world.
   - We achieve this directive through creating tools for individual humans, to make them more effective, engaged, and empowered, and thus having the one become the propogagator to the many (the rest of society) the positive effects and values exercised and developed through the use of these tools, thus evolving the earthly ecosystem, and evolving the tastes and fashions of the day.
 ### We are currently working towards:
 - We are currently working towards building out [piletexod.us](https://www.piletexod.us), a interactive task and timeblocking mobile/desktop/web app, featuring proof-of-work functionality, public profiles, multi-device sync, public displaying of progress through pages, social interactive browsing of profiles, and personal progress reports, among others.
