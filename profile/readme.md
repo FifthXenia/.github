@@ -6,6 +6,6 @@
     
 ### We are currently:
 - We are currently building out [piletexod.us](https://www.piletexod.us), a proof-of-work creative integral scratch-work virtue-cultivating sangha - a place where people get down and dirty in the sewers, guts, and dungeons of the simulation, poke it and nudge it and make new things happen, and post their battle scars, loot, and proof-of-work. No social media or dot files exist in this realm. This is a human affair. Built by humans, for humans. Humanity unleashed, unfiltered, raw, authentic, vulnerable, and exposed in all its glory. Interplanetary and onwards. We'll all be dead tomorrow, so let's do it, and do it right, today. This is the standard and the imperative we hold ourselves to, regardless if others follow. This is our north star, forever shining bright. This is [piletexod.us](https://www.piletexod.us). This is humanity. This is virtue. 🏇
-   - Welcome Sentences: `The Digital Age shines its light, its 1's and 0's, upon all local maximums, beckoning them to become sentient enough to evolve towards the global maximums that await. The path to evolution, is the cultivation and exercising of our virtues.`
+   - Welcoming Sentences: `The Digital Age shines its light, its 1's and 0's, upon all local maximums, beckoning them to become sentient enough to evolve towards the global maximums that await. The path to evolution, is the cultivation and exercising of our virtues.`
 
 ![handprints-500x-270deg](https://github.com/FifthXenia/.github/assets/7407672/93ffd949-0a34-4911-a302-99b621642f43)
