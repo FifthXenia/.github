@@ -6,7 +6,7 @@
 
 - **FifthXenia is a creative sangha** developing modular and distributed solutions that benefit and support humanity, bolster resiliency, and deepen our **direct** relationship with the world and with each other, evolving our earthly ecosystem to that of a higher order and resonance. 🏇
   - **We are propagators for the triratna of axioms that:**
-    - 1: `The curious and courageous, global maxima exigented, and individuatedly questing individual, is the fundamental unit of humanity.`
+    - 1: `The curious and courageous, global maxima exigented, and individuatedly questing individual, is the fundamental essence of humanity.`
     - 2: `Cultivating and exercising virtue is the imperative.`
     - 3: `Wholesome zeal propagates through individuation, discerning, visceral absorption, and suffusion in global maximas, not through cloning and controlling, festering through local maximas.`
 
