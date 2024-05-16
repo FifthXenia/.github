@@ -8,7 +8,7 @@
   - **We are propagators for the triratna of axioms that:**
     - 1: `The curious and courageous, global maxima exigented, and individuatedly questing individual, is the fundamental unit of humanity.`
     - 2: `Cultivating and exercising virtue is the imperative.`
-    - 3: `Wholesome zeal propagates through individuation, discerning absorption, and suffusion in global maximas, not through cloning and controlling, festering through local maximas.`
+    - 3: `Wholesome zeal propagates through individuation, discerning visceral absorption, and suffusion in global maximas, not through cloning and controlling, festering through local maximas.`
 
 
 <img align="left" width="100" src="profile/.images/weAreLower2.svg">
