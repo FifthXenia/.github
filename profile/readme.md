@@ -4,7 +4,7 @@
 
 <br>
 
-- **FifthXenia is a creative sangha** developing modular and distributed solutions that benefit and support humanity, bolster resiliency, and deepen our **direct** relationship with the world and with each other, evolving our earthly ecosystem to that of a higher order and resonance, through visceral upgrades to the individual human. 🏇
+- **FifthXenia is a creative sangha** developing modular and distributed solutions that benefit and support humanity, bolster resiliency, and deepen our **direct** relationship with the world and with each other, evolving our earthly ecosystem to that of a higher order and resonance, through visceral upgrades for the individual human. 🏇
   - **We are propagators for the triratna of axioms that:**
     - 1: `The curious and courageous, global maxima exigented, and individuatedly questing individual, is the primordial essence of humanity (humanity has a particular flavor that reflexively vectors its trajectory)`
     - 2: `Cultivating and exercising virtue is the imperative.`
