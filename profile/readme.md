@@ -21,4 +21,4 @@
   - **A Xenial Dialectic:**
     - `May the broken, bloodied, and crucified, hands, and wings, of humanity, be sufficient enough, to free every last one of us, from the mark of the beast (the mark of the beast, being those set of things which inhibit you from experiencing heaven - that kingdom within).`
   - **Reasoning:**
-    - `We need an exodus, adjacent to a toxic society, that no longer raises its progeny properly, and instead tosses its babies to the wolves, of which it's the pack leader. And we need an exodus from the world of forms and inteprerations, and meanings and symbols, into a visceral, absorptive relationship with reality.`
+    - `We need an exodus, adjacent to a toxic society, that's no longer raising its progeny properly, and instead tosses its babies to the wolves, of which the toxic society is the pack leader. And we need an exodus from the world of forms and inteprerations, and meanings and symbols, into a visceral, absorptive relationship with reality.`
