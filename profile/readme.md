@@ -1,4 +1,4 @@
-<img align="left" width="175" src="profile/.images/fifthXeniaColoredTextWithLogo4.svg">
+<img align="left" width="175" src=".images/fifthXeniaColoredTextWithLogo4.svg">
 
 --------
 
@@ -11,7 +11,7 @@
     - 3: `Wholesome zeal propagates through rugged individuation, inversion, discerning & visceral absorption, and suffusion in global maximas. Not through: cloning and controlling, more of the same, and agitated festering through local maximas.`
 
 
-<img align="left" width="100" src="profile/.images/weAreLower2.svg">
+<img align="left" width="100" src=".images/weAreLower2.svg">
 
 ----------------
 
