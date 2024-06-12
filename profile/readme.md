@@ -9,7 +9,10 @@
     - 1: `The curious and courageous, global maxima exigented, and individuatedly questing individual, forms the primordial essence of humanity (humanity has a particular flavor that reflexively vectors its trajectory)`
     - 2: `Cultivating and exercising virtue is the imperative.`
     - 3: `Wholesome zeal propagates through rugged individuation, inversion, discerning & visceral absorption, and suffusion in global maximas. Not through: cloning and controlling, more of the same, and agitated festering through local maximas.`
-
+  - **And the triratna of false idols we reject are:**
+    - 1: `Society`
+    - 2: `Religion`
+    - 3: `The Flesh`
 
 <img align="left" width="100" src=".images/weAreLower2.svg">
 
