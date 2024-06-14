@@ -14,7 +14,7 @@
     - 2: `Religion`
     - 3: `The Flesh`
   - **We seek out the:**
-    - `Disillusionary feedback loops`
+    - `Disillusionary Feedback Loops`
 
 <img align="left" width="100" src=".images/weAreLower2.svg">
 
