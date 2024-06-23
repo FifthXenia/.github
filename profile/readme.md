@@ -14,7 +14,7 @@
     - 2: `Religion`
     - 3: `The Flesh`
   - **We seek out the:**
-    - `Disillusionary Exoduses. Not the ever-ingratiating illusions.`
+    - `Disillusionary Exoduses. Not the ever-ingratiating illusions. We don't give a fuck about that.`
 
 <img align="left" width="100" src=".images/weAreLower2.svg">
 
