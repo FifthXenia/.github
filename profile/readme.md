@@ -24,4 +24,4 @@
    - **Welcoming Sentences:**
      - `The Digital Age shines its guiding light, its 1's and 0's, upon all local maximas, beckoning them forth, onwards and upwards, towards becoming sentient and curiosity-oriented enough, to evolve into the global maximas, that continuously and ever await. The path of this wholesome evolution, requisites and a prioris, the cultivation, and exercising of virtues. If at first glance, this path appears to entail intense physical turmoil, emotional distress, coupled with extreme sheer terrain, and treacherous conditions, you may be pleased to discover, that this path is, in fact, an analgesic, and is inverted.`
    - **Licenses/etc:**
-     - GPLv3 (client) with [ios exception clause](https://github.com/nextcloud/ios?tab=readme-ov-file#contribution-guidelines--license) / AGPLv3 (servers). No CLA's. Maybe a COC/Foundation, at minimum an LLC owner.
+     - GPLv3 (client) with [ios exception clause](https://github.com/nextcloud/ios?tab=readme-ov-file#contribution-guidelines--license) / AGPLv3 (servers). Probably no [CLA's](https://signal.org/cla/). Maybe a COC/Foundation, at minimum an LLC owner.
