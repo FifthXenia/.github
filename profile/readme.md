@@ -22,8 +22,9 @@
 
 ----------------
 
-<img align="right" width="100" src=".images/mesh-400x.jpg">
+<img align="right" width="200" src=".images/mesh-400x.jpg">
 
 
 - **We are developing [piletexod.us](https://www.piletexod.us) (202X):** a proof-of-work sangha, individuated questing platform, and data-driven, beyond-this-world, identity-crafting mesh.
   - Nothing more said, until we release our MVP...
+<blockquote>Our medicines and north stars, can be our poison and ruin, for as long as we aren't actively monitoring their effects.</blockquote>
