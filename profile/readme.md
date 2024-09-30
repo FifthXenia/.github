@@ -27,4 +27,4 @@
 
 - **We are developing [piletexod.us](https://www.piletexod.us) (202X):** a proof-of-work sangha, individuated questing platform, and data-driven, beyond-this-world, identity-crafting mesh.
   - Nothing more said, until we release our MVP...
-<blockquote>Our medicines and north stars, can be our poison and ruin, for as long as we aren't actively monitoring their effects.</blockquote>
+<blockquote>Our medicines and north stars, can be our poison and ruin, for as long as we aren't holistically bearing witness to their effects.</blockquote>
