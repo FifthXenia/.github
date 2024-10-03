@@ -4,7 +4,7 @@
 
 <br>
 
-- **FifthXenia is a creative sangha** developing modular and distributed solutions that benefit and support humanity, bolster resiliency, and deepen our **direct** relationship with the world and with each other, evolving our earthly ecosystem to that of a higher order and resonance, through the means of viscerally upgrading the individual, disembodied, panjandrum. 🏇
+- **FifthXenia is a creative sangha** developing modular and distributed solutions that benefit and support humanity, bolster resiliency, and deepen our **direct** relationship with the world and with each other, evolving our earthly ecosystem to that of a higher order and resonance, through the means of viscerally enspiriting the individual, disembodied, panjandrum. 🏇
   - **We are propagators for the triratna of axioms that:**
     - 1: `The love that sustains within the worst of creation, is the birthplace of creation. The primordial you.`
     - 2: `The impersonal, is more personal, and more primordial, than the immediately personal, and any labels.`
