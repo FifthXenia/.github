@@ -28,3 +28,4 @@
 - **We are developing [piletexod.us](https://www.piletexod.us) (202X):** a proof-of-work sangha, individuated questing platform, and data-driven, beyond-this-world, identity-crafting mesh.
   - Nothing more said, until we release our MVP...
 <blockquote>What we take as our salvation and north star, can be our poison and ruin, when we refrain, and refuse, to holistically bear witness to the effects and interactions, regarding the whole.</blockquote>
+<blockquote>Serving god > mere worship of god. Worshipping god, you externalize virtue, instead of living it..</blockquote>
