@@ -25,6 +25,6 @@
 <img align="right" width="200" src=".images/mesh-400x.jpg">
 
 
-- **We are developing [piletexod.us](https://www.piletexod.us) (202X):** a proof-of-work sangha, individuated questing platform, and data-driven, beyond-this-world, identity-crafting mesh.
+- **We are developing the [piletexod.us](https://www.piletexod.us) playground (202X):** a proof-of-work sangha, individuated questing platform, and data-driven, beyond-this-world, identity-crafting mesh.
   - Nothing more said, until we release our MVP...
 <blockquote>What we take as our salvation and north star, can be our poison and ruin, when we refrain, and refuse, to holistically bear witness to the effects and interactions, regarding the whole.</blockquote>
