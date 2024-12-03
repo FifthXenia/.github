@@ -9,7 +9,7 @@
     - 1: `The love that sustains within the worst of creation, is the birthplace of creation. The primordial you.`
     - 2: `The impersonal, is more personal, and more primordial, than the immediately personal, and any labels.`
     - 3: `Wholesome zeal propagates through curious, anewing play. Not through: more of the same, regurgitation.`
-  - **The triratna of fetters, and false, personal, pretentious, mob-like, imbalanced idols, that we seek exodus, and refuge from (such that, we can direct our attention onto the spirit, unity, wholeness - that gleam within the eyes):**
+  - **There are three avenues and aspects of reality: society, religion, the flesh. All three should serve the spirit. If any do not, we will find something to be wrong, even if we know not the words. Here's how things could go wrong for each:**
     - 1: `Society [a system]`
       - (Society < Humanity. See extreme/dense politics injected to divide over income, race, the flesh. Forever wars, forever inflating currencies, forever working, forever enlarging government deficits, forever pollution [nuclear, plastics, planned obsolesence], forever adding laws, society A versus society B instead of a (+) operation. Hostile creations [can't repair, no ownership], mandatory backdoor policies, ruled by the top, "It's just business", etc.)
     - 2: `Religion [a service]`
