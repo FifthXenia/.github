@@ -16,7 +16,6 @@
       - (Evil cannot engulf the world, because there are the higher natural laws of morality, and of self-defense. All is not relative. All evil will not be accepted.)
     - 3: `The Flesh [a sovereign]`
       - (The flesh, if not abiding by natural law, enters a deep imbalance, of pure selfishness, immorality, and evilness. However, because of free will, one can live as the flesh, without living by it's dictates. Living in the flesh, but not being of it. Living in the world, but not being of it.  Seeking truth, propagating liberty, morality.)
-        - (Our main focus is on enspiriting the individual panjandrum, via addressing their flesh. Society and religion will ultimately upgrade themselves, via themselves, or at the very least in part by that which we propagate.)
    
 <img align="left" width="100" src=".images/weAreLower.svg">
 
