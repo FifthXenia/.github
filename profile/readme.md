@@ -9,13 +9,13 @@
     - 1: `The love that sustains within the worst of creation, is the birthplace of creation. The primordial you.`
     - 2: `The impersonal, is more personal, and more primordial, than the immediately personal, and any labels.`
     - 3: `Wholesome zeal propagates through curious, anewing play. Not through: more of the same, regurgitation.`
-  - **There are three avenues and aspects of reality: society, religion, the flesh. All three should serve the spirit. If any do not, we will find something to be wrong, even if we know not the words. Here's how things could go wrong in each:**
-    - 1: `Society [a system]`
+  - **There are three avenues and aspects of reality: The manifested world, natural law, and the flesh. All three should serve the spirit (liberty, truth).**
+    - 1: `The Manifested World [a result]`
       - (Society < Humanity. See extreme/dense politics injected to divide over income, race, the flesh. Forever wars, forever inflating currencies, forever working, forever enlarging government deficits, forever pollution [nuclear, plastics, planned obsolesence], forever adding laws, society A versus society B instead of a (+) operation. Hostile creations [can't repair, no ownership], mandatory backdoor policies, ruled by the top, "It's just business", etc.)
-    - 2: `Religion [a service]`
-      - (Religion [a path] < The spirit [truth]. Religions purpose is to connect people with the spirit. If it fails to do so, it has lost its way. Also, one can get trapped in thinking religion is a tautology: the one true, and only path; and live within rules and dogma: calling that god and the spirit; and the sword that pierces the heart: sanctification. Jesus said no husbands or wives in heaven, as that is of this world. We cannot take our religions with us, as they have been communicated with words, and languages, birthed of this world. Only spirit, traverses the beyond.)
-    - 3: `The Flesh [a solicitor]`
-      - (The flesh is an endless pit, with no bottom, insatiable wants, and immediate urgency. Fill the stomach, and sit ontop gold bars, the flesh only screams louder. We then move past mere satiation, on to conquest, visions of divine rights of kings, slaughter, more gold, punishment, retribution, revenge, & sanctification of degradation. The flesh is perfectly calibrated for its needs, but we are not calibrated with respect to it - it takes us over.)
+    - 2: `Natural Law [a limit]`
+      - (Evil cannot engulf the world, because there are the higher natural laws of morality, and of self-defense. All is not relative. All evil will not be accepted.)
+    - 3: `The Flesh [a sovereign]`
+      - (The flesh, if not abiding by natural law, enters a deep imbalance, of pure selfishness, immorality, and evilness. However, because of free will, one can live as the flesh, without living by it's dictates. Living in the flesh, but not being of it. Living in the world, but not being of it.)
         - (Our main focus is on enspiriting the individual panjandrum, via addressing their flesh. Society and religion will ultimately upgrade themselves, via themselves, or at the very least in part by that which we propagate.)
    
 <img align="left" width="100" src=".images/weAreLower.svg">
