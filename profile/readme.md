@@ -11,7 +11,7 @@
     - 3: `Wholesome zeal propagates through curious, anewing play. Not through: more of the same, regurgitation.`
   - **There are three aspects of reality: The manifested world, natural law, and the flesh. All three should serve the spirit (liberty, truth).**
     - 1: `The Manifested World [a result]`
-      - (Society < Humanity. See extreme/dense politics injected to divide over income, race, the flesh. Forever wars, forever inflating currencies, forever working, forever enlarging government deficits, forever pollution [nuclear, plastics, planned obsolesence], forever adding laws, society A versus society B instead of a (+) operation. Hostile creations [can't repair, no ownership], mandatory backdoor policies, ruled by the top, "It's just business", etc.)
+      - (The world is a manifestation of humanities aggregated soveireignity of its flesh, and our understanding of natural law. The less moral, the less knowledgable, the less courageous, the more slavery, and coercion is to be the law of the land.)
     - 2: `Natural Law [a limit]`
       - (Evil cannot engulf the world, because there are the higher natural laws of morality, and of self-defense. All is not relative. All evil will not be accepted.)
     - 3: `The Flesh [a sovereign]`
