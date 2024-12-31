@@ -15,7 +15,7 @@
     - 2: `Natural Law [a limit, a truth]`
       - (Evil must not engulf the world, as there are the higher natural laws of morality, of self-defense, etc, that take precendence. All is not relative. All evil will not be accepted, in totality.)
     - 3: `The Flesh [a sovereign]`
-      - (The flesh, if not abiding by natural law, enters a deep imbalance, of pure selfishness, immorality, and evilness. However, because of free will, one can live as the flesh, without living by it's dictates. Living in the flesh, but not being of it. Living in the world, but not being of it.  Seeking truth, propagating liberty, morality.)
+      - (The flesh, if not abiding by natural law, enters a deep imbalance, of pure selfishness, immorality, relativity, and evilness. However, because of free will, one can live as the flesh, without living by it's dictates. Living in the flesh, but not being of it. Living in the world, but not being of it.  Seeking truth, propagating liberty, morality.)
    
 <img align="left" width="100" src=".images/weAreLower.svg">
 
