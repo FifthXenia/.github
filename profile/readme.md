@@ -10,7 +10,7 @@
     - 2: `The impersonal, is more personal, and more primordial, than the immediately personal, and any labels.`
     - 3: `Wholesome zeal propagates through curious, anewing play. Not through: more of the same, regurgitation.`
   - **There are three aspects of reality: The manifested world, natural law, and the flesh. All three should serve the spirit (liberty, truth).**
-    - 1: `The Manifested World [a result]`
+    - 1: `The Manifested World [a creation, a result]`
       - (The world is a manifestation of humanities aggregated soveireignity of its flesh, and our understanding of natural law. The less moral, the less knowledgable, the less courageous, the more slavery, and coercion is to be the law of the land.)
     - 2: `Natural Law [a limit, a truth]`
       - (Evil must not engulf the world, as there are the higher natural laws of morality, of self-defense, etc, that take precendence. All is not relative. All evil will not be accepted, in totality.)
