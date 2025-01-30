@@ -9,7 +9,7 @@
     - 1: `The love that sustains within the worst of creation, is the birthplace of creation. The primordial you.`
     - 2: `The impersonal, is more personal, and more primordial, than the immediately personal, and any labels.`
     - 3: `Wholesome zeal propagates through curious, anewing play. Not through: more of the same, regurgitation.`
-  - **There are three aspects of reality: The manifested world, natural law, and the flesh. All three should serve the spirit (liberty, truth, perfect peace, god begetting god).**
+  - **There are three aspects of reality: The manifested world, natural law, and the flesh. All three should serve the spirit (liberty, truth, perfect peace, benevolence and good will, god begetting god).**
     - 1: `The Manifested World [a creation, a result]`
       - (The world is a manifestation of humanities aggregated sovereignty of its flesh, and our understanding of natural law. The less moral, the less knowledgable, the less courageous, the more slavery, and coercion, is to be the law of the land.)
     - 2: `Natural Law [a limit, a truth]`
